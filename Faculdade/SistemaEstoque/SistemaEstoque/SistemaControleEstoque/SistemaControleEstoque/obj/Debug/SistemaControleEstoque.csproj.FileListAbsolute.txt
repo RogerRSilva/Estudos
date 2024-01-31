@@ -1,0 +1,7 @@
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\bin\Debug\SistemaControleEstoque.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\bin\Debug\SistemaControleEstoque.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\bin\Debug\SistemaControleEstoque.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\obj\Debug\SistemaControleEstoque.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\obj\Debug\SistemaControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\obj\Debug\SistemaControleEstoque.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\SistemaEstoque\SistemaEstoque\SistemaControleEstoque\SistemaControleEstoque\obj\Debug\SistemaControleEstoque.pdb

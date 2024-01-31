@@ -1,0 +1,15 @@
+.svg-content { 
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.container-texto{
+	text-align: center;
+}
+
+.svg-container
+{
+	background-color: #F2F2E6;
+}

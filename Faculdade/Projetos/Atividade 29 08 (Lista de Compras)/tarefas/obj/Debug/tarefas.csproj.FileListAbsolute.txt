@@ -1,0 +1,32 @@
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\bin\Debug\tarefas.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\bin\Debug\tarefas.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.Adicionar.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (tarefas)\tarefas\obj\Debug\tarefas.Atividades.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.Adicionar.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.Atividades.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\bin\Debug\tarefas.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.Adicionar.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.Atividades.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.GenerateResource.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (Lista de Compras)\tarefas\obj\Debug\tarefas.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+  </metadata>
+
+  <organizations>
+    <organization identifier="org1">
+      <title>My Organization</title>
+      <item identifier="item1" identifierref="resource1">
+        <title>My Course</title>
+      </item>
+      <item identifier="item2" identifierref="resource2">
+        <title>My Course</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="resource1" type="webcontent" adlcp:scormtype="sco">
+      <file href="conteudo/gridbox.html"/>
+    </resource>
+    <resource identifier="resource2" type="webcontent" adlcp:scormtype="sco">
+      <file href="conteudo2/gridbox.html"/>
+    </resource>
+  </resources>
+
+</manifest>

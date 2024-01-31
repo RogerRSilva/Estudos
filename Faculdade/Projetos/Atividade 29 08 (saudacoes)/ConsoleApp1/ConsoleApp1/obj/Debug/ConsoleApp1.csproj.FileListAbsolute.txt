@@ -1,0 +1,49 @@
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+Z:\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Saudações.resources
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Saudações.resources
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Saudações.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Saudações.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Saudações.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projetos\Atividade 29 08 (saudacoes)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Atenção Básica</title>
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\atencaoBasica\main-atencao.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\unslider.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\unslider-dots.css" rel="stylesheet">
+    <link href="../../../../../repository/coursefilearea/file.php/1/theme/sbc/cursos/css/arquivos-novos/quebralinha.css"
+        rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Estudos\FloatButtons\CSS\flexbox.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Estudos\FloatButtons\CSS\grid-box2.css" rel="stylesheet">
+
+    <!--Alinhando o texto-->
+    <style type="text/css">
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="height:160px;">
+        <header class="main-header">
+            <div class="main-header__title">
+                <p class="main-header__line">Atenção Básica</p>
+                <p class="main-header__course">Imunização</p>
+            </div>
+            <div class="main-header__subtitle">
+                <p class="main-header__module">Equipamentos</p>
+            </div>
+        </header>
+    </div>
+    <div class="container container-spacing">
+        <div class="container container-spacing image-box__img">
+            <figure class="margin-auto">
+                <img src="refrigeradores.jpeg" class="img-responsive img-zoom"
+                    alt="Imagem de Apresentação. Contém a imagem de um refrigerador da rede hospitalar.">
+
+                <figcaption>Imagem retirada do site: <a
+                        href="https://blog.solistica.com/pt-br/capacidades-solistica-cadeia-de-frio"
+                        target="_blank">blog.solistica.com/pt-br/capacidades-solistica-cadeia-de-frio</a></figcaption>
+            </figure>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <h3 style="margin-top:10px;">Armazenamento de Imunobiológicos</h3>
+    </div>
+    <!-- TP005 inicio -->
+    <div class="container container-spacing">
+        <div>
+            <p>Na preservação de imunobiológicos, a escolha e a adequada utilização de equipamentos desempenham um papel
+                crucial para garantir a qualidade e eficácia dessas substâncias. Cada um desses dispositivos possuem
+                diversas serventias, visando assegurar que as condições ideais de armazenamento sejam mantidas. Ao
+                explorarmos esses equipamentos, torna-se evidente como sua aplicação cuidadosa é essencial para
+                preservar a potência e eficácia dos imunobiológicos, contribuindo diretamente para a saúde pública e o
+                sucesso de programas de imunização.</p>
+        </div>
+        <div class="container">
+            <h3 style="margin-top:10px;">Organização das caixas térmicas para transporte de imunobiológicos</h3>
+        </div>
+        
+        
+        <div class="container-grid" id="grid">
+            
+        </div>
+
+        <script>
+            // Definindo a quantidade desejada de colunas e linhas
+            var quantidadeDeColunas = 3;
+            var quantidadeDeLinhas = 2;
+    
+            // Referência ao elemento do grid
+            var gridContainer = document.getElementById("grid");
+    
+            // Criar campos dinamicamente com base na quantidade de colunas e linhas
+            for (var row = 1; row <= quantidadeDeLinhas; row++) {
+                for (var col = 1; col <= quantidadeDeColunas; col++) {
+                    var gridItem = document.createElement("div");
+                    
+                    gridItem.textContent = "Célula " + row + "-" + col;
+                    gridItem.setAttribute("id", "cell-" + row + "-" + col); // Adiciona um atributo "id" com um valor único
+                    gridContainer.appendChild(gridItem);
+                }
+            }
+    
+            // Aplicar o layout de grid usando grid-template-columns, grid-template-rows e grid-template-areas
+            gridContainer.style.gridTemplateColumns = "repeat(" + quantidadeDeColunas + ", 190px)";
+            gridContainer.style.gridTemplateRows = "repeat(" + quantidadeDeLinhas + ", 190px)";
+            gridContainer.style.gridTemplateAreas = `
+                "area1 area2 area3"
+                "area4 area5 area6"
+            `;
+        </script>
+
+
+    </div>
+    </div>
+</body>
+
+</html>

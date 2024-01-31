@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Atenção Básica</title>
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\atencaoBasica\main-atencao.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\unslider.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Paginas\CSS\unslider-dots.css" rel="stylesheet">
+    <link href="../../../../../repository/coursefilearea/file.php/1/theme/sbc/cursos/css/arquivos-novos/quebralinha.css"
+        rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Estudos\FloatButtons\CSS\flexbox.css" rel="stylesheet">
+    <link href="C:\Users\CS80048\Documents\Roger\Estudos\FloatButtons\CSS\grid-box.css" rel="stylesheet">
+
+    <!--Alinhando o texto-->
+    <style type="text/css">
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+        <!-- div com a classe que ira ser inserido o grid -->
+        <div class="container-grid">
+            <div class="grid" id="grid"></div> <!-- classe com o id 'grid' -->
+        </div>
+
+        <!------------------------------------------ SCRIPT EM JS ---------------------------------------->
+        <script src="C:/Users/CS80048/Documents/Roger/Estudos/FloatButtons/JS/grid-box.js"></script>
+
+        <script>
+
+            //responsividade acionada quando a página carrega e quando ela é redimensionada
+            window.onload = window.onresize = posicionaElementos;
+
+            //função que cria, posiciona e muda os estilos e proporções de cada campo do grid
+            function posicionaElementos() {
+                var widthscreen = window.innerWidth;
+
+                //insira o id da classe que tem o grid
+                var gridContainer = document.getElementById("grid");
+                var quantidadeDeColunas, quantidadeDeLinhas, tamanhoColuna, tamanhoLinha;
+
+                //definindo o número de colunas e linhas para cada tamanho de tela
+                if (widthscreen > 1200) {
+                    quantidadeDeColunas = 5;
+                    quantidadeDeLinhas = 2;
+                } else if (widthscreen > 680) {
+                    quantidadeDeColunas = 3;
+                    quantidadeDeLinhas = 3;
+                } else {
+                    quantidadeDeColunas = 3;
+                    quantidadeDeLinhas = 3;
+                }
+
+                //definindo tamanho dos campos com base na largura da tela, o primeiro valor é se for verdadeiro, o segundo se for falso
+                tamanhoColuna = (widthscreen > 680) ? 208 : 150;
+                tamanhoLinha = (widthscreen > 680) ? 230 : 195;
+
+                //cria o grid com a quantidade de linhas, colunas usando o grid identificado
+                criaGrid(quantidadeDeLinhas, quantidadeDeColunas, gridContainer);
+
+                // Aplicar o layout de grid usando grid-template-columns e grid-template-rows
+                gridContainer.style.gridTemplateColumns = "repeat(" + quantidadeDeColunas + ", " + tamanhoColuna + "px)";
+                gridContainer.style.gridTemplateRows = "repeat(" + quantidadeDeLinhas + ", " + tamanhoLinha + "px)";
+
+                //definindo qual grid será mostrado com base no tamanho da tela
+                (widthscreen > 1200 ? gridBig : (widthscreen > 680 ? gridMedium : gridSmall))();
+
+
+                //grid quando a largura da tela é maior (desktop e monitores)
+                function gridBig() {
+                    //define as classes que cada div irá ter usando seus id's (box-'linha'-'Coluna')
+                    //grid-arrow remete a uma flecha, porém pode ser usado outros símbolos
+                    document.getElementById("box-1-1").classList.add("grid-box");
+                    document.getElementById("box-1-2").classList.add("grid-arrow");
+                    document.getElementById("box-1-3").classList.add("grid-box");
+                    document.getElementById("box-1-4").classList.add("grid-arrow");
+                    document.getElementById("box-1-5").classList.add("grid-box");
+                    document.getElementById("box-2-1").classList.add("grid-box");
+                    document.getElementById("box-2-2").classList.add("grid-arrow");
+                    document.getElementById("box-2-3").classList.add("grid-box");
+                    document.getElementById("box-2-4").classList.add("grid-arrow");
+                    document.getElementById("box-2-5").classList.add("grid-box");
+
+
+                    // Adicionar conteúdo específico para cada grid-box, o conteúdo deve ser inserido ma seguinte ordem: 'id da div','texto','imagem','largura da imagem','altura da imagem'
+                    adicionarConteudo("box-1-1", "Gelox com a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img1.jpg", "220px", "150px");
+                    adicionarConteudo("box-1-3", "Gelox após desaparecer a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img2.jpg", "220px", "150px");
+                    adicionarConteudo("box-1-5", "Gelox secos ao redor as paredes da caixa .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img3.jpg", "220px", "150px");
+                    adicionarConteudo("box-2-1", "Bulbo  ao centro, próximo a vacina .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img4.jpg", "220px", "150px");
+                    adicionarConteudo("box-2-3", "", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img5.jpg", "220px", "200px");
+                    adicionarConteudo("box-2-5", "Manter a caixa com a tampa fechada.", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img6.jpg", "220px", "150px");
+
+                    //Adiciona os símbolos, onde a ordem é: 'id da div','símbolo em forma de texto'
+                    adicionarSimbolo("box-1-2", "→");
+                    adicionarSimbolo("box-1-4", "→");
+                    adicionarSimbolo("box-2-2", "→");
+                    adicionarSimbolo("box-2-4", "→");
+                }
+
+                //grid quando a largura da tela é intermediaria (tablets, Ipads, netbook's)
+                function gridMedium() {
+                    //define as classes que cada div irá ter usando seus id's (box-'linha'-'Coluna')
+                    //grid-arrow remete a uma flecha, porém pode ser usado outros símbolos
+                    document.getElementById("box-1-1").classList.add("grid-box");
+                    document.getElementById("box-1-2").classList.add("grid-arrow");
+                    document.getElementById("box-1-3").classList.add("grid-box");
+                    document.getElementById("box-2-1").classList.add("grid-box");
+                    document.getElementById("box-2-2").classList.add("grid-arrow");
+                    document.getElementById("box-2-3").classList.add("grid-box");
+                    document.getElementById("box-3-1").classList.add("grid-box");
+                    document.getElementById("box-3-2").classList.add("grid-arrow");
+                    document.getElementById("box-3-3").classList.add("grid-box");
+
+
+                    // Adicionar conteúdo específico para cada grid-box, o conteúdo deve ser inserido ma seguinte ordem: 'id da div','texto','imagem','largura da imagem','altura da imagem'
+                    adicionarConteudo("box-1-1", "Gelox com a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img1.jpg", "220px", "150px");
+
+                    adicionarConteudo("box-1-3", "Gelox após desaparecer a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img2.jpg", "220px", "150px");
+
+                    adicionarConteudo("box-2-1", "Gelox secos ao redor as paredes da caixa .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img3.jpg", "220px", "150px");
+
+                    adicionarConteudo("box-2-3", "Bulbo  ao centro, próximo a vacina .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img4.jpg", "220px", "150px");
+
+                    adicionarConteudo("box-3-1", "", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img5.jpg", "220px", "200px");
+
+                    adicionarConteudo("box-3-3", "Manter a caixa com a tampa fechada.", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img6.jpg", "220px", "150px");
+
+                    //Adiciona os símbolos, onde a ordem é: 'id da div','símbolo em forma de texto'
+                    adicionarSimbolo("box-1-2", "→");
+                    adicionarSimbolo("box-2-2", "→");
+                    adicionarSimbolo("box-3-2", "→");
+                }
+
+                //grid quando a largura da tela é menor (celulares e dispositivos móveis)
+                function gridSmall() {
+                    //define as classes que cada div irá ter usando seus id's (box-'linha'-'Coluna')
+                    //grid-arrow remete a uma flecha, porém pode ser usado outros símbolos
+                    document.getElementById("box-1-1").classList.add("grid-box");
+                    document.getElementById("box-1-2").classList.add("grid-arrow");
+                    document.getElementById("box-1-3").classList.add("grid-box");
+                    document.getElementById("box-2-1").classList.add("grid-box");
+                    document.getElementById("box-2-2").classList.add("grid-arrow");
+                    document.getElementById("box-2-3").classList.add("grid-box");
+                    document.getElementById("box-3-1").classList.add("grid-box");
+                    document.getElementById("box-3-2").classList.add("grid-arrow");
+                    document.getElementById("box-3-3").classList.add("grid-box");
+
+
+                    // Adicionar conteúdo específico para cada grid-box, o conteúdo deve ser inserido ma seguinte ordem: 'id da div','texto','imagem','largura da imagem','altura da imagem'
+                    adicionarConteudo("box-1-1", "Gelox com a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img1.jpg", "140px", "100px");
+
+                    adicionarConteudo("box-1-3", "Gelox após desaparecer a névoa (véu da noiva).", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img2.jpg", "140px", "100px");
+
+                    adicionarConteudo("box-2-1", "Gelox secos ao redor as paredes da caixa .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img3.jpg", "140px", "100px");
+
+                    adicionarConteudo("box-2-3", "Bulbo  ao centro, próximo a vacina .", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img4.jpg", "140px", "120px");
+
+                    adicionarConteudo("box-3-1", "", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img5.jpg", "140px", "150px");
+
+                    adicionarConteudo("box-3-3", "Manter a caixa com a tampa fechada.", "C:/Users/CS80048/Documents/Roger/Paginas/atencaoBasica/imunizacao/imagens/caixatermica/img6.jpg", "140px", "100px");
+
+                    //Adiciona os símbolos, onde a ordem é: 'id da div','símbolo em forma de texto'
+                    adicionarSimbolo("box-1-2", "→");
+                    adicionarSimbolo("box-2-2", "→");
+                    adicionarSimbolo("box-3-2", "→");
+                }
+            }
+
+        </script>
+
+        <!------------------------------------------ SCRIPT EM JS ---------------------------------------->
+    </div>
+</body>
+
+</html>

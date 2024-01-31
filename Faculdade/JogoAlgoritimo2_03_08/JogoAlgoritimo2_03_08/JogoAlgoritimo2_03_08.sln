@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoAlgoritimo2_03_08", "JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08.csproj", "{96ECFF30-7152-48E8-9EE7-C7E16720EDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96ECFF30-7152-48E8-9EE7-C7E16720EDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96ECFF30-7152-48E8-9EE7-C7E16720EDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96ECFF30-7152-48E8-9EE7-C7E16720EDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96ECFF30-7152-48E8-9EE7-C7E16720EDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A890D571-61A5-4C01-B7AF-A9C03ACE821F}
+	EndGlobalSection
+EndGlobal

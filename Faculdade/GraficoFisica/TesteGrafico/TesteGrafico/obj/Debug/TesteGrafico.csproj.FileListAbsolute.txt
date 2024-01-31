@@ -1,0 +1,49 @@
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\Faculdade Termomecânica\EC2\Algoritmo 2\Projetos\TesteGrafico\obj\Debug\TesteGrafico.pdb
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.pdb
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.AssemblyReference.cache
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.SuggestedBindingRedirects.cache
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.cache
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.CoreCompileInputs.cache
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.exe
+Z:\Roger EC-2\algoritmo\Projetos\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.pdb
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\roger\OneDrive\Roger EC-2\algoritmo\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.pdb
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.GenerateResource.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\GraficoFisica\TesteGrafico\TesteGrafico\obj\Debug\TesteGrafico.pdb

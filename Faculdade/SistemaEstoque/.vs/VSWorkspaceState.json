@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaEstoque",
+    "\\SistemaEstoque\\SistemaControleEstoque",
+    "\\SistemaEstoque\\SistemaControleEstoque\\SistemaControleEstoque"
+  ],
+  "SelectedNode": "\\SistemaEstoque\\SistemaControleEstoque\\SistemaControleEstoque\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

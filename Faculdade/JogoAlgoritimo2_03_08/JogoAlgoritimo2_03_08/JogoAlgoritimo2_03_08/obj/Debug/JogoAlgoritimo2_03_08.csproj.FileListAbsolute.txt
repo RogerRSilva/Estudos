@@ -1,0 +1,33 @@
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe.config
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.pdb
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.AssemblyReference.cache
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.SuggestedBindingRedirects.cache
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.JogoAlgoritmo.resources
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.GenerateResource.cache
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.CoreCompileInputs.cache
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.exe
+Z:\Roger EC-2\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.pdb
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe.config
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.pdb
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.AssemblyReference.cache
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.SuggestedBindingRedirects.cache
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.JogoAlgoritmo.resources
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.GenerateResource.cache
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.CoreCompileInputs.cache
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.exe
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.pdb
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.TentarNovamente.resources
+C:\Users\081230045\OneDrive\Roger EC-2\algoritmo\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.Desistir.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\bin\Debug\JogoAlgoritimo2_03_08.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.Desistir.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.JogoAlgoritmo.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.TentarNovamente.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.GenerateResource.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\JogoAlgoritimo2_03_08\obj\Debug\JogoAlgoritimo2_03_08.pdb

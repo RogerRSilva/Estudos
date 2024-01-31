@@ -1,0 +1,136 @@
+.container-grid-teste
+{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	display: grid;
+	grid-template-columns: 200px 160px 200px 160px 200px;
+	grid-template-rows: 240px 100px 240px;
+	align-items: center;
+	justify-items: center;
+
+	grid-template-areas: 
+	"a arrow b arrow1 c"
+	"gap gap1 gap2 gap3 arrow4"
+	"d arrow2 e arrow3 f";
+
+}
+
+.gap
+{
+	width: 100%;
+	height: 100%;
+}
+
+.grid-box
+{
+	width: 200px;
+	height: 200px;
+	background-color: #F2F2E6;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 2px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.box-a{ grid-area: a;}
+.box-b{ grid-area: b;}
+.box-c{ grid-area: c;}
+.box-d{ grid-area: d;}
+.box-e{ grid-area: e;}
+.box-f{ grid-area: f;}
+
+.gap[gap1] { grid-area: gap; }
+.gap[gap1] { grid-area: gap1; }
+.gap[gap2] { grid-area: gap2; }
+.gap[gap3] { grid-area: gap3; }
+.gap[gap4] { grid-area: gap4; }
+.gap[gap5] { grid-area: gap5; }
+.gap[gap6] { grid-area: gap6; }
+.gap[gap7] { grid-area: gap7; }
+.gap[gap8] { grid-area: gap8; }
+
+.arrow-1{grid-area: arrow}
+.arrow-2{grid-area: arrow1}
+.arrow-3{grid-area: arrow2}
+.arrow-4{grid-area: arrow3}
+.arrow-5
+{
+	grid-area: arrow4;
+	transform: rotate(90deg);
+}
+
+.grid-arrow
+{
+	width: 60px;
+	height: 60px;
+	background-color: #F2F2E6;
+	display: flex;
+	align-items: end;
+	justify-content: center;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	cursor:default;
+}
+
+/* formata o texto dentro do botão ou da caixa */
+.container-texto
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	text-align: center;
+	padding: 10px;
+}
+
+/* condiciona a responsividade dos botões e das caixas com base no tamanho da tela */
+@media (max-width: 990px)
+{
+	.container-grid-teste
+	{
+		grid-template-columns: 200px 160px 200px;
+		grid-template-rows: 240px 100px 240px 100px 240px;
+		grid-template-areas: 
+			"a arrow b"
+			"gap2 gap3 arrow3"
+			"d arrow1 c"
+			"arrow4 gap6 gap7"
+			"e arrow2 f";
+	}
+	.arrow-2
+	{
+		transform: rotate(180deg);
+	}
+	.arrow-3
+	{
+		transform: rotate(180deg);
+	}
+	.arrow-4
+	{
+		transform: rotate(90deg);
+	}
+	.arrow-5
+	{
+		transform: rotate(90deg);
+	}
+}
+@media (max-width: 680px)
+{
+	.container-grid-teste
+	{
+		grid-template-columns: 160px 140px 160px;
+		grid-template-rows: 240px 100px 240px 100px 240px;
+		grid-template-areas: 
+			"a arrow b"
+			"gap2 gap3 arrow3"
+			"d arrow1 c"
+			"arrow4 gap6 gap7"
+			"e arrow2 f";
+	}
+	.grid-box
+	{
+		width: 70%;
+		height: 70%;
+		position: relative;
+	}
+}

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Caixas Interligadas</title>
+  <link rel="stylesheet" href="estilo-diagrama.css">
+</head>
+
+<body>
+  <div style="width: 1350px; height: 900px;">
+    <div id="container-diagrama">
+
+      <script src="estrutura-diagrama.js"></script>
+      <script>
+
+        var tamanhoSvg =
+        {
+          width: 1500,
+          height: 1000
+        };
+
+        /*
+        Atributos de bloco:
+          id: 0, 
+          posX: 0, 
+          posY: 0, 
+          width: 0, 
+          height: 0, 
+          color: "#0000"
+
+          Atributo Opicional:
+            shape: "losang" ou "circle" (rentângulo ou quadrado é a forma padrão, não precisando ser declarada)
+        */
+        var container =
+          [
+            { id: 0, posX: 650, posY: 20, width: 100, height: 100, color: "#eab210", shape: "circle" },
+            { id: 1, posX: 648, posY: 880, width: 100, height: 100, color: "#eab210", shape: "circle" },
+            { id: 2, posX: 625, posY: 180, width: 150, height: 100, color: "lightblue" },
+            { id: 3, posX: 645, posY: 400, width: 110, height: 110, color: "#ff7f7f", shape: "losang" },
+            { id: 4, posX: 410, posY: 520, width: 150, height: 100, color: "lightblue" },
+            { id: 5, posX: 850, posY: 520, width: 150, height: 100, color: "lightblue" },
+            { id: 6, posX: 673.5, posY: 705, width: 50, height: 50, color: "#ff7f7f", shape:"circle" },
+            { id: 7, posX: 530, posY: 450, width: 50, height: 50, color: "#F2F2E6" },
+            { id: 8, posX: 850, posY: 450, width: 50, height: 50, color: "#F2F2E6" }
+          ]
+
+        /*
+          Atributos das conexões:
+            from: (id - bloco 1), 
+            to: (id - bloco 2), 
+        
+          Atributo Opicional:
+            dotted: "20, 10" (para criar uma conexão pontilhada)
+            point1: 1, 2, 3 ou 4 (ponto de origem da flecha e os lados de uma figura) 
+            point2: 1, 2, 3 ou 4 (ponto final e os lados de uma figura)
+  
+          */
+        var conexoes =
+          [
+            { from: 0 , to: 2},
+            { from: 2 , to: 3},
+            { from: 3 , to: 4, point1: 2, point2: 1},
+            { from: 3 , to: 5, point1: 4, point2: 1},
+            { from: 4 , to: 6, point2: 4},
+            { from: 5 , to: 6, point2: 2},
+            { from: 6 , to: 1}
+          ]
+
+        /*
+          Atributos de conteúdo:
+              idBox: (id de algum bloco),
+              text: ["titulo", "paragrafo 1", "paragrafo 2"..],
+              fontSize: "(tamanho da fonte)",
+  
+          Atributos Opicionais:
+              paddingVertical: "0",
+              paddingHorizontal: "0",
+              colorText: "#0000",
+              fontWeightTittle: "normal",
+              fontWeightText: "normal",
+              marginParagraph: "0",
+              textAlign: "center"
+          */
+        var conteudo =
+          [
+            {
+              idBox: 0,
+              text: ["INÍCIO"],
+              fontSize: "26px",
+              paddingVertical: "35px",
+              paddingHorizontal: "12px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 1,
+              text: ["FIM"],
+              fontSize: "26px",
+              paddingVertical: "35px",
+              paddingHorizontal: "27px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 2,
+              text: ["ENTRADA"],
+              fontSize: "20px",
+              paddingVertical: "40px",
+              paddingHorizontal: "27px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 3,
+              text: ["CONDIÇÃO"],
+              fontSize: "20px",
+              paddingVertical: "45px",
+              paddingHorizontal: "0",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 4,
+              text: ["AÇÃO - 1", "Processo 1"],
+              fontSize: "20px",
+              paddingVertical: "30px",
+              paddingHorizontal: "10px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "center"
+            },
+            {
+              idBox: 5,
+              text: ["AÇÃO - 2", "Processo 2"],
+              fontSize: "20px",
+              paddingVertical: "30px",
+              paddingHorizontal: "10px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "center"
+            },
+            {
+              idBox: 6,
+              text: [""],
+              fontSize: "20px",
+              paddingVertical: "30px",
+              paddingHorizontal: "25px",
+              colorText: "white",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 7,
+              text: ["SIM"],
+              fontSize: "20px",
+              paddingVertical: "0",
+              paddingHorizontal: "0",
+              colorText: "black",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            },
+            {
+              idBox: 8,
+              text: ["NÃO"],
+              fontSize: "20px",
+              paddingVertical: "0",
+              paddingHorizontal: "0",
+              colorText: "black",
+              fontWeightTittle: "bold",
+              fontWeightText: "bold",
+              marginParagraph: "0",
+              textAlign: "start"
+            }
+          ]
+
+        /*
+          Atributos de conteúdo:
+            idImg: (id de algum bloco),
+            img: "diretório da imagem",
+            width: "0",
+            heigh 
+          Atributos Opicionais:
+            paddingImg: "0",
+            marginImg: "0 ou auto"
+            
+        */
+        var imagens =
+          [
+            {
+              idImg: 0,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 1,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 2,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 3,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 4,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 5,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 6,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 7,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            },
+            {
+              idImg: 8,
+              img: "",
+              width: "0",
+              height: "0",
+              paddingImg: "0",
+              marginImg: "0"
+            }
+          ]
+
+        // Esperar até que o DOM esteja carregado para chamar a função
+        document.addEventListener("DOMContentLoaded",
+          criarContainer(container, tamanhoSvg, conexoes, conteudo, imagens));
+
+      </script>
+
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\bin\Debug\Aividade_alg191023.exe.config
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\bin\Debug\Aividade_alg191023.exe
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\bin\Debug\Aividade_alg191023.pdb
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\obj\Debug\Aividade_alg191023.csproj.AssemblyReference.cache
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\obj\Debug\Aividade_alg191023.csproj.SuggestedBindingRedirects.cache
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\obj\Debug\Aividade_alg191023.csproj.CoreCompileInputs.cache
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\obj\Debug\Aividade_alg191023.exe
+C:\Users\081230029\source\repos\Aividade_alg191023\Aividade_alg191023\obj\Debug\Aividade_alg191023.pdb

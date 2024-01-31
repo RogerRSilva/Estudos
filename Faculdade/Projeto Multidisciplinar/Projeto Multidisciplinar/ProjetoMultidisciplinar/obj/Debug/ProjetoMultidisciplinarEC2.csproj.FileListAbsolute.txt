@@ -1,0 +1,25 @@
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\bin\Debug\TesteGrafico.exe.config
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\bin\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\bin\Debug\TesteGrafico.pdb
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\ProjetoMultidisciplinarEC2.csproj.AssemblyReference.cache
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\ProjetoMultidisciplinarEC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.Malha.resources
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.Menu.resources
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.ResultadosMalha.resources
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\ProjetoMultidisciplinarEC2.csproj.GenerateResource.cache
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\ProjetoMultidisciplinarEC2.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.exe
+C:\Users\roger\Desktop\Projeto Multidisciplinar\TesteGrafico\obj\Debug\TesteGrafico.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\bin\Debug\TesteGrafico.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\bin\Debug\TesteGrafico.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\bin\Debug\TesteGrafico.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\ProjetoMultidisciplinarEC2.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.Grafico.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.Malha.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.Menu.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.ResultadosMalha.resources
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\ProjetoMultidisciplinarEC2.csproj.GenerateResource.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\ProjetoMultidisciplinarEC2.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Projeto Multidisciplinar\Projeto Multidisciplinar\ProjetoMultidisciplinar\obj\Debug\TesteGrafico.pdb

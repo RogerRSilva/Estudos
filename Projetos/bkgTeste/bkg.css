@@ -1,0 +1,49 @@
+/*background imagem e configuração de visual*/
+.container-bkg{
+	background-image: url("bkg.jpg");
+	background-repeat: repeat-y;
+	background-size: cover auto;
+	margin: 0;
+	padding: 0;
+	align-items: center;
+}
+
+/*Espaço branco que fica atrás do texto do corpo da página*/
+.container-body{
+	margin-right: auto;
+	margin-left: auto;
+	width: 85vw;
+	background-color : white;
+	border-radius: 5px;
+	border: 1px solid #eab210;
+}
+
+/*Criação da borda do banner da página*/
+.container-img-border{
+	border-radius: 0 0 25px 0;
+	box-shadow: 11px 11px 0 #eab210;
+	margin-bottom: 18px;
+}
+
+/*Condição de tamanho do fundo branco quando a tela tem determinado tamanho*/
+@media (min-width: 768px) {
+	.container-body {
+	  width: 785px;
+	}
+  }
+  @media (min-width: 1000px) {
+	.container-body {
+	  width: 990px;
+	}
+  }
+  @media (min-width: 1210px) {
+	.container-body {
+	  width: 1200px;
+	}
+  }
+
+  body > div:nth-child(2) > .container > figure > img {
+	border-radius: 0 0 30px 0;
+	box-shadow: 11px 11px 0 #eab210;
+	margin-bottom: 18px;
+  }

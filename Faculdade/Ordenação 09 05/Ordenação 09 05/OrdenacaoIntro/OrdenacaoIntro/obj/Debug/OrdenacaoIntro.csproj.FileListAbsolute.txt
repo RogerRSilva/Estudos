@@ -1,0 +1,15 @@
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.exe.config
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.exe
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.pdb
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.csproj.AssemblyReference.cache
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.csproj.SuggestedBindingRedirects.cache
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.csproj.CoreCompileInputs.cache
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.exe
+Z:\Roger EC-2\algoritmo\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.exe.config
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\bin\Debug\OrdenacaoIntro.pdb
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.csproj.AssemblyReference.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.csproj.CoreCompileInputs.cache
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.exe
+C:\Users\CS80048\Documents\Roger\Estudos\curso\Compactadas\Ordenação 09 05\Ordenação 09 05\OrdenacaoIntro\OrdenacaoIntro\obj\Debug\OrdenacaoIntro.pdb
