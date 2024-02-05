@@ -60,7 +60,7 @@ a{
 
 }
 
-form {
+.banner1 form{
     display: flex;
     flex-direction: column;
     align-items: center;
