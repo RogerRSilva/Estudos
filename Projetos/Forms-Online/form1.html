@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="estilo-form.css">
+    <script src="https://kit.fontawesome.com/5af76f28d4.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <main>
+        <div class="banner1">
+            <form action="teste.php" autocomplete="off" method="POST">
+                <h3>Sign in</h3>
+                <!-- ... seu código anterior ... -->
+
+                <div class="icones">
+                    <button id="btnFacebook" type="submit"><i class="fa-brands fa-facebook fa-2x"></i></button>
+                    <button id="btnEnvelope" type="submit"><i class="fa-regular fa-envelope fa-2x"></i></button>
+                    <button id="btnGoogle" type="submit"><i class="fa-solid fa-g fa-2x"></i></button>
+                </div>
+
+                <!-- ... seu código anterior ... -->
+
+                <div class="input-icones">
+                    <i id="user" class="fa-solid fa-user"></i>
+                    <i id="lock" class="fa-solid fa-lock"></i>
+                </div>
+                <input type="text" name="email" id="email-input" placeholder="E-mail" />
+                <input type="text" name="password" id="password-input" placeholder="Password" />
+
+                <p style="font-size: 0.8rem">Forgot your password? <a href="recuperar-conta.html">Click here!</a></p>
+                <button id="btnLogin" type="submit">Sign In</button>
+            </form>
+        </div>
+        <div class="banner2">
+            <div class="criar-conta">
+                <form action="SignIn.html" autocomplete="off" , method="POST">
+                    <h3>Hello, User!</h3>
+                    <h2>Don't have an account? </h2>
+                    <button id="btnCreate" type="submit">Sign Up</button>
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
